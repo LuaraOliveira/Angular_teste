@@ -39,6 +39,11 @@
       "name": "Toalha Diva",
       "price": "100.00",
       "id": 8
+    },
+    {
+      "name": "carro",
+      "price": "75.000",
+      "id": 9
     }
   ]
 }
